@@ -1,7 +1,7 @@
 # ❗❗❗use at own risk❗❗❗
 im not responsible if you gonna get banned
 
-# if you wil use other window while app will waiting 3 sec until close app will hide current window not the app
+if you wil use other window while app will waiting 3 sec until close app will hide current window not the app
 
 # --- HOW TO USE ---
 im going to show you this on CS:S
