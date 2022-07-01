@@ -35,6 +35,7 @@ Counter-Strike 1.6 - working
 Half-life - working
 Counter-strike: Condition Zero - working
 RPG MAKER xp - working
+Farming Simulator 2011 - Working
 ```
 
 if you are lazy to rename i gonna create folder with farm apps that has already changed names
