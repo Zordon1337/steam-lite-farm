@@ -31,6 +31,9 @@ timberman - working
 Dude Simulator 3 - Working
 ProgressBar95 - working
 Teardown - working
+Counter-Strike 1.6 - working
+Half-life - working
+Counter-strike: Condition Zero - working
 ```
 
 if you are lazy to rename i gonna create folder with farm apps that has already changed names
