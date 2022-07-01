@@ -25,6 +25,7 @@ Counter-Strike: Source - working
 metin2 - working
 Plants vs. Zombies: Game of the Year - working
 Geometry Dash - working
+timberman - working
 ```
 
 if you are lazy to rename i gonna create folder with farm apps that has already changed names
