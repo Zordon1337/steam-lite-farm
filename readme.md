@@ -36,6 +36,7 @@ Half-life - working
 Counter-strike: Condition Zero - working
 RPG MAKER xp - working
 Farming Simulator 2011 - Working
+Farming Simulator 2013 - Working
 ```
 
 if you are lazy to rename i gonna create folder with farm apps that has already changed names
