@@ -35,4 +35,4 @@ Teardown - working
 
 if you are lazy to rename i gonna create folder with farm apps that has already changed names
 
-if you liked this project leave a star plz
+if you enjoyed this project leave a star
