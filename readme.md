@@ -16,14 +16,13 @@ this don't work on some games (probably only on games that require admin privile
 # LIST OF GAMES THAT DON'T WORK WITH THIS TOOL
 ```
 
-metin2
 
 ```
 # TESTED GAMES
 ```
 Muck - working
 Counter-Strike: Source - working
-metin2 - not working
+metin2 - working
 Plants vs. Zombies: Game of the Year - working
 Geometry Dash - working
 ```
