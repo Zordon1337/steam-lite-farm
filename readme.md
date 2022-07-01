@@ -11,7 +11,7 @@ im going to show you this on CS:S
 5. launch game from steam
 6. Enjoy!
 
-this don't work on some games (probably only on games that require admin privileges)
+this can not work on some games 
 
 # LIST OF GAMES THAT DON'T WORK WITH THIS TOOL
 ```
