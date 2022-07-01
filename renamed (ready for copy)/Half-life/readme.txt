@@ -1,0 +1,1 @@
+half-life, CS:CZ, CS 1.6 are in same directory /half-life/
