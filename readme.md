@@ -5,6 +5,9 @@ if you wil use other window while app will waiting 3 sec until close app will hi
 
 # --- HOW TO USE ---
 [now i'm working on auto patcher ;)]
+
+
+
 im going to show you this on CS:S
 
 1. you download the auto farm app
