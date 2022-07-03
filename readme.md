@@ -40,6 +40,7 @@ RPG MAKER xp - working
 Farming Simulator 2011 - working
 Farming Simulator 2013 - working
 Bus Driver - working
+Euro Truck Simulator 2 - working
 ```
 
 if you are lazy to rename i gonna create folder with farm apps that has already changed names
