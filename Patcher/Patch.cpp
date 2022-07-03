@@ -47,7 +47,8 @@ int main()
         std::cout << "Farming Simulator 2011" << std::endl;
         std::cout << "Farming Simulator 2013" << std::endl;
         std::cout << "Bus Driver" << std::endl;
-        std::cout << "Bus Driver" << std::endl;
+        std::cout << "Euro Truck Simulator 2" << std::endl;
+        std::cout << "Cooking Simulator" << std::endl;
         system("PAUSE");
         system("cls");
         return main();
