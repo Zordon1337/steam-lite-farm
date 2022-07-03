@@ -2,7 +2,7 @@
 im not responsible if you gonna get banned
 
 # --- HOW TO USE ---
-[now i'm working on auto patcher ;)]
+~~now i'm working on auto patcher ;)]~~ - now its half done and you can download it
 
 
 
