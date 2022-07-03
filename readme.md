@@ -24,26 +24,26 @@ Counter-Strike: Global Offensive
 ```
 # TESTED GAMES
 ```
-Muck - working
-Counter-Strike: Source - working
-metin2 - working
-Plants vs. Zombies: Game of the Year - working
-Geometry Dash - working
-timberman - working
-Dude Simulator 3 - Working
-ProgressBar95 - working
-Teardown - working
-Counter-Strike 1.6 - working
-Half-life - working
-Counter-strike: Condition Zero - working
-RPG MAKER xp - working
-Farming Simulator 2011 - working
-Farming Simulator 2013 - working
-Bus Driver - working
-Euro Truck Simulator 2 - working
-Counter-Strike: Global Offensive - not working
-Cooking Simulator - Working
-Terraria - Working
+Muck - ✅
+Counter-Strike: Source - ✅
+metin2 - ✅
+Plants vs. Zombies: Game of the Year - ✅
+Geometry Dash - ✅
+timberman - ✅
+Dude Simulator 3 - ✅
+ProgressBar95 - ✅
+Teardown - ✅
+Counter-Strike 1.6 - ✅
+Half-life - ✅
+Counter-strike: Condition Zero - ✅
+RPG MAKER xp - ✅
+Farming Simulator 2011 - ✅
+Farming Simulator 2013 - ✅
+Bus Driver - ✅
+Euro Truck Simulator 2 - ✅
+Counter-Strike: Global Offensive - ❌
+Cooking Simulator - ✅
+Terraria - ✅
 ```
 
 if you are lazy to rename i gonna create folder with farm apps that has already changed names
