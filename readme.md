@@ -43,6 +43,7 @@ Bus Driver - working
 Euro Truck Simulator 2 - working
 Counter-Strike: Global Offensive - not working
 Cooking Simulator - Working
+Terraria - Working
 ```
 
 if you are lazy to rename i gonna create folder with farm apps that has already changed names
