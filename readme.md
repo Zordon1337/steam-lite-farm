@@ -19,7 +19,7 @@ this can not work on some games
 
 # LIST OF GAMES THAT DON'T WORK WITH THIS TOOL
 ```
-
+Counter-Strike: Global Offensive
 
 ```
 # TESTED GAMES
@@ -41,6 +41,7 @@ Farming Simulator 2011 - working
 Farming Simulator 2013 - working
 Bus Driver - working
 Euro Truck Simulator 2 - working
+Counter-Strike: Global Offensive - not working
 ```
 
 if you are lazy to rename i gonna create folder with farm apps that has already changed names
