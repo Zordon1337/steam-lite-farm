@@ -49,6 +49,7 @@ int main()
         std::cout << "Bus Driver" << std::endl;
         std::cout << "Euro Truck Simulator 2" << std::endl;
         std::cout << "Cooking Simulator" << std::endl;
+        std::cout << "Terraria" << std::endl;
         system("PAUSE");
         system("cls");
         return main();
