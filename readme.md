@@ -44,6 +44,7 @@ Euro Truck Simulator 2 - ✅
 Counter-Strike: Global Offensive - ❌
 Cooking Simulator - ✅
 Terraria - ✅
+Septerra Core - ✅
 ```
 
 if you are lazy to rename i gonna create folder with farm apps that has already changed names
