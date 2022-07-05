@@ -50,6 +50,7 @@ int main()
         std::cout << "Euro Truck Simulator 2" << std::endl;
         std::cout << "Cooking Simulator" << std::endl;
         std::cout << "Terraria" << std::endl;
+        std::cout << "Septerra Core" << std::endl;
         system("PAUSE");
         system("cls");
         return main();
