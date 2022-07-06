@@ -77,7 +77,7 @@ int main()
         /* //////////////////////////// */
         if (gm == "Counter-Strike: Source")
         {
-            std::cout << "enter game directory(ex. C:/steam/css";
+            std::cout << "enter game directory(ex. C:/steam/css" << std::endl;
             std::cin >> dir;
             std::ifstream f1("./bin/hl2.exe", std::ios::binary);
             std::ofstream f2(dir + "/hl2.exe", std::ios::binary);
@@ -96,7 +96,7 @@ int main()
         /* //////////////////////////// */
         if (gm == "Muck")
         {
-            std::cout << "enter game directory (ex. C:/steam/Muck";
+            std::cout << "enter game directory (ex. C:/steam/Muck" << std::endl;
             std::cin >> dir;
             std::ifstream f1("./bin/Muck.exe", std::ios::binary);
             std::ofstream f2(dir + "/Muck.exe", std::ios::binary);
@@ -114,7 +114,7 @@ int main()
         /* //////////////////////////// */
         if (gm == "metin2")
         {
-            std::cout << "enter game directory (ex. C:/steam/Metin2";
+            std::cout << "enter game directory (ex. C:/steam/Metin2" << std::endl;
             std::cin >> dir;
             std::ifstream f1("./bin/steam_launcher.exe", std::ios::binary);
             std::ofstream f2(dir +  "/steam_launcher.exe", std::ios::binary);
@@ -131,7 +131,7 @@ int main()
         /* //////////////////////////// */
         if (gm == "PvZ")
         {
-            std::cout << "enter game directory(ex. C:/steam/Plants Vs Zombies";
+            std::cout << "enter game directory(ex. C:/steam/Plants Vs Zombies" << std::endl;
             std::cin >> dir;
             std::ifstream f1("./bin/PlantsVsZombies.exe", std::ios::binary);
             std::ofstream f2(dir + "/PlantsVsZombies.exe", std::ios::binary);
@@ -149,7 +149,7 @@ int main()
         /* //////////////////////////// */
         if (gm == "Geometry Dash")
         {
-            std::cout << "enter game directory (ex. C:/steam/Geometry Dash";
+            std::cout << "enter game directory (ex. C:/steam/Geometry Dash" << std::endl;
             std::cin >> dir;
             std::ifstream f1("./bin/GeometryDash.exe", std::ios::binary);
             std::ofstream f2(dir + "/GeometryDash.exe", std::ios::binary);
@@ -166,7 +166,7 @@ int main()
         /* //////////////////////////// */
         if (gm == "timberman")
         {
-            std::cout << "enter game directory (ex. C:/steam/Timberman";
+            std::cout << "enter game directory (ex. C:/steam/Timberman" << std::endl;
             std::cin >> dir;
             std::ifstream f1("./bin/Timberman.exe", std::ios::binary);
             std::ofstream f2(dir + "/Timberman.exe", std::ios::binary);
@@ -183,7 +183,7 @@ int main()
         /* //////////////////////////// */
         if (gm == "PvZ")
         {
-            std::cout << "enter game directory(ex. C:/steam/Dude Simulator 3";
+            std::cout << "enter game directory(ex. C:/steam/Dude Simulator 3" << std::endl;
             std::cin >> dir;
             std::ifstream f1("./bin/DudeSimulator3.exe", std::ios::binary);
             std::ofstream f2(dir + "/DudeSimulator3.exe", std::ios::binary);
@@ -201,7 +201,7 @@ int main()
         /* //////////////////////////// */
         if (gm == "Geometry Dash")
         {
-            std::cout << "enter game directory (ex. C:/steam/Progressbar95";
+            std::cout << "enter game directory (ex. C:/steam/Progressbar95" << std::endl;
             std::cin >> dir;
             std::ifstream f1("./bin/Progressbar95.exe", std::ios::binary);
             std::ofstream f2(dir + "/Progressbar95.exe", std::ios::binary);
@@ -218,7 +218,7 @@ int main()
         /* //////////////////////////// */
         if (gm == "timberman")
         {
-            std::cout << "enter game directory (ex. C:/steam/Teardown";
+            std::cout << "enter game directory (ex. C:/steam/Teardown" << std::endl;
             std::cin >> dir;
             std::ifstream f1("./bin/teardown.exe", std::ios::binary);
             std::ofstream f2(dir + "/teardown.exe", std::ios::binary);
