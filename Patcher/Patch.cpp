@@ -16,7 +16,7 @@ std::string dir;
 
 int main()
 {
-    SetConsoleTitleA("lite farm Patcher BETA"); /* if you builded it self rename the title to "lite farm Patcher UNOFFICIAL BUILD" */
+    SetConsoleTitleA("lite farm Patcher BETA Builded on 7/6/2022"); /* if you builded it self rename the title to "lite farm Patcher UNOFFICIAL Builded on %builddate%" */
     system("color 90");
     std::cout << "hint: if you don't how to use. use command 'help'" << std::endl;
     std::cout << ">>";
@@ -27,13 +27,10 @@ int main()
         std::cout << "Currently supported games" << std::endl;
         std::cout << "  " << std::endl;
         std::cout << "  " << std::endl;
-        std::cout << "Counter-Strike: Source" << std::endl;
+        std::cout << "Counter-Strike:Source" << std::endl;
         std::cout << "Muck" << std::endl;
         std::cout << "metin2" << std::endl;
-        std::cout << "PvZ" << std::endl;
-        std::cout << "Geometry Dash" << std::endl;
         std::cout << "timberman" << std::endl;
-        std::cout << "Dude Simulator 3" << std::endl;
         std::cout << "ProgressBar95" << std::endl;
         std::cout << "Teardown" << std::endl;
         std::cout << "  " << std::endl;
@@ -52,6 +49,14 @@ int main()
         std::cout << "Cooking Simulator" << std::endl;
         std::cout << "Terraria" << std::endl;
         std::cout << "Septerra Core" << std::endl;
+        std::cout << "  " << std::endl;
+        std::cout << "  " << std::endl;
+        std::cout << "Not working (won't fix)" << std::endl;
+        std::cout << "  " << std::endl;
+        std::cout << "  " << std::endl;
+        std::cout << "PvZ" << std::endl;
+        std::cout << "Dude Simulator 3" << std::endl;
+        std::cout << "Geometry Dash" << std::endl;
         system("PAUSE");
         system("cls");
         return main();
@@ -76,7 +81,7 @@ int main()
         /*    Counter Strike: Source    */
         /*                              */
         /* //////////////////////////// */
-        if (gm == "Counter-Strike: Source")
+        if (gm == "Counter-Strike:Source")
         {
             std::cout << "enter game directory(ex. C:/steam/css" << std::endl;
             std::cin >> dir;
@@ -132,13 +137,7 @@ int main()
         /* //////////////////////////// */
         if (gm == "PvZ")
         {
-            std::cout << "enter game directory(ex. C:/steam/Plants Vs Zombies" << std::endl;
-            std::cin >> dir;
-            std::ifstream f1("./bin/PlantsVsZombies.exe", std::ios::binary);
-            std::ofstream f2(dir + "/PlantsVsZombies.exe", std::ios::binary);
-            f2 << f1.rdbuf();
-            system("cls");
-            std::cout << "Done!" << std::endl;
+            std::cout << "PvZ is disabled due to bug" << std::endl;
             Sleep(1);
             return main();
 
@@ -150,13 +149,7 @@ int main()
         /* //////////////////////////// */
         if (gm == "Geometry Dash")
         {
-            std::cout << "enter game directory (ex. C:/steam/Geometry Dash" << std::endl;
-            std::cin >> dir;
-            std::ifstream f1("./bin/GeometryDash.exe", std::ios::binary);
-            std::ofstream f2(dir + "/GeometryDash.exe", std::ios::binary);
-            f2 << f1.rdbuf();
-            system("cls");
-            std::cout << "Done!" << std::endl;
+            std::cout << "Geometry Dash is disabled due to bug" << std::endl;
             Sleep(1);
             return main();
         }
@@ -184,13 +177,7 @@ int main()
         /* //////////////////////////// */
         if (gm == "PvZ")
         {
-            std::cout << "enter game directory(ex. C:/steam/Dude Simulator 3" << std::endl;
-            std::cin >> dir;
-            std::ifstream f1("./bin/DudeSimulator3.exe", std::ios::binary);
-            std::ofstream f2(dir + "/DudeSimulator3.exe", std::ios::binary);
-            f2 << f1.rdbuf();
-            system("cls");
-            std::cout << "Done!" << std::endl;
+            std::cout << "Dude Simulator 3 is disabled due to bug" << std::endl;
             Sleep(1);
             return main();
 
