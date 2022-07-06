@@ -16,7 +16,7 @@ std::string dir;
 
 int main()
 {
-    SetConsoleTitleA("lite farm Patcher BETA"); /* if you builded it self rename the title to "lite farm Patcher UNOFFICIAL BUILD"
+    SetConsoleTitleA("lite farm Patcher BETA"); /* if you builded it self rename the title to "lite farm Patcher UNOFFICIAL BUILD" */
     system("color 90");
     std::cout << "hint: if you don't how to use. use command 'help'" << std::endl;
     std::cout << ">>";
