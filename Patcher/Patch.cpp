@@ -40,13 +40,9 @@ int main()
         std::cout << "  " << std::endl;
         std::cout << "Counter-Strike 1.6" << std::endl;
         std::cout << "Half-life" << std::endl;
-        std::cout << "Counter-strike: Condition Zero" << std::endl;
+        std::cout << "Counter-strike:ConditionZero" << std::endl;
         std::cout << "RPG MAKER xp" << std::endl;
-        std::cout << "Farming Simulator 2011" << std::endl;
-        std::cout << "Farming Simulator 2013" << std::endl;
-        std::cout << "Bus Driver" << std::endl;
-        std::cout << "Euro Truck Simulator 2" << std::endl;
-        std::cout << "Cooking Simulator" << std::endl;
+        std::cout << "CookingSimulator" << std::endl;
         std::cout << "Terraria" << std::endl;
         std::cout << "Septerra Core" << std::endl;
         std::cout << "  " << std::endl;
@@ -57,6 +53,10 @@ int main()
         std::cout << "PvZ" << std::endl;
         std::cout << "Dude Simulator 3" << std::endl;
         std::cout << "Geometry Dash" << std::endl;
+        std::cout << "Euro Truck Simulator 2" << std::endl;
+        std::cout << "Farming Simulator 2011" << std::endl;
+        std::cout << "Farming Simulator 2013" << std::endl;
+        std::cout << "Bus Driver" << std::endl;
         system("PAUSE");
         system("cls");
         return main();
