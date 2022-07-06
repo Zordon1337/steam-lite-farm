@@ -16,6 +16,7 @@ std::string dir;
 
 int main()
 {
+    SetConsoleTitleA("lite farm Patcher BETA");
     system("color 90");
     std::cout << "hint: if you don't how to use. use command 'help'" << std::endl;
     std::cout << ">>";
