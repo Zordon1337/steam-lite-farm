@@ -1,5 +1,5 @@
 # ❗❗❗use at own risk❗❗❗
-im not responsible if you gonna get banned
+im not sure that you can't get ban so im not responsible if you gonna get banned
 
 # --- HOW TO USE ---
 ~~now i'm working on auto patcher ;)]~~ - now its half done and you can download it
@@ -41,7 +41,7 @@ Farming Simulator 2011 - ✅
 Farming Simulator 2013 - ✅
 Bus Driver - ✅
 Euro Truck Simulator 2 - ✅
-Counter-Strike: Global Offensive - ❌
+Counter-Strike: Global Offensive - ✅
 Cooking Simulator - ✅
 Terraria - ✅
 Septerra Core - ✅
