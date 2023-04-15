@@ -1,5 +1,15 @@
-# ❗❗❗use at own risk❗❗❗
-im not sure that you can't get ban so im not responsible if you gonna get banned
+# Deprecated Project
+today i archive this project it was fun to maintain it but the code kinda sucks and the whole method also so i decided to archive this project
+please don't use it
+i will make new steam hours farm with completly other method of farming.
+if you want alternative hour farming app(i don't think anyone expect me used this but anyway)
+i recommend these
+<br />
+<a href="https://github.com/JustArchiNET/ArchiSteamFarm">ArchiSteamFarm</a>
+<br />
+<a href="https://github.com/Zordon1337/shfJS">SteamHourFarmJS</a>
+<br />
+
 
 # --- HOW TO USE ---
 ~~now i'm working on auto patcher ;)]~~ - now its half done and you can download it
